@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(254, 173, 186);
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+nav {
+  margin: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  background-color: brown;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkred;
+}
+
+.card {
+  background-color: rgb(208, 146, 146);
+  display: inline-block;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: left;
+}
+
+table {
+  margin: auto;
+}
+
+td {
+  padding: 5px 10px;
+}
